@@ -13,8 +13,8 @@
 // WiFi
 #define ERROR_STR "Some error in funtction \"send_request(const char*)\"...."
 #define MAX_BAD_REQUESTS 12
-#define WIFI_SSID "ArseniiNet"
-#define WIFI_PASS "mio9led1"
+#define WIFI_SSID "SSID"
+#define WIFI_PASS "PASS"
 
 namespace WiFiTools{
     void connectWifi();
